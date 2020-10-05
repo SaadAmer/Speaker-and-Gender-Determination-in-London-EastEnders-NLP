@@ -1,5 +1,5 @@
 # Speaker-and-Gender-Determination-in-London-EastEnders-NLP
-Natural Language Processing Project to determine the Gender and identify the speakers from the texts of conersations 
+Natural Language Processing Project to determine the Gender and identify the speakers from the texts of conversations 
 
 This project was done on Google Colab, so please change the destination path of the test	 and train data to the appropriate location( Maybe remove the ‘/’ before the path). The oath is defined under the heading MAIN. 
  
